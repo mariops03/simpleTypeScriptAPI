@@ -1,0 +1,90 @@
+[
+    {
+        "id": 0,
+        "nombre": "Mahou",
+        "origen": "España",
+        "tipo": "Lager",
+        "alcohol": 5.0,
+        "descripcion": "Cerveza española tradicional con un sabor equilibrado y cuerpo ligero."
+    },
+    {
+        "id": 1,
+        "nombre": "Estrella Damm",
+        "origen": "España",
+        "tipo": "Pilsner",
+        "alcohol": 4.6,
+        "descripcion": "Cerveza catalana conocida por su frescura y aroma floral."
+    },
+    {
+        "id": 2,
+        "nombre": "Mahou",
+        "origen": "España",
+        "tipo": "Lager",
+        "alcohol": 5.0,
+        "descripcion": "Cerveza española tradicional con un sabor equilibrado y cuerpo ligero."
+    },
+    {
+        "id": 3,
+        "nombre": "Estrella Damm",
+        "origen": "España",
+        "tipo": "Pilsner",
+        "alcohol": 4.6,
+        "descripcion": "Cerveza catalana conocida por su frescura y aroma floral."
+    },
+    {
+        "id": 4,
+        "nombre": "San Miguel",
+        "origen": "España",
+        "tipo": "Pale Lager",
+        "alcohol": 5.4,
+        "descripcion": "Cerveza con cuerpo medio y un sabor suave, perfecta para acompañar comidas."
+    },
+    {
+        "id": 5,
+        "nombre": "Damm Inedit",
+        "origen": "España",
+        "tipo": "Wheat Beer",
+        "alcohol": 4.8,
+        "descripcion": "Cerveza innovadora creada en colaboración con Ferran Adrià, con notas a especias y cítricos."
+    },
+    {
+        "id": 6,
+        "nombre": "Alhambra Reserva 1925",
+        "origen": "España",
+        "tipo": "Amber Lager",
+        "alcohol": 6.4,
+        "descripcion": "Cerveza de alta graduación con cuerpo robusto y un toque amargo en el final."
+    },
+    {
+        "id": 7,
+        "nombre": "La Virgen Madrid Lager",
+        "origen": "España",
+        "tipo": "Craft Lager",
+        "alcohol": 5.2,
+        "descripcion": "Cerveza artesanal de Madrid con un equilibrio entre maltosidad y amargor."
+    },
+    {
+        "id": 8,
+        "nombre": "Heineken",
+        "origen": "Países Bajos",
+        "tipo": "Lager",
+        "alcohol": 5.0,
+        "descripcion": "Cerveza internacional reconocida con un sabor refrescante y ligeramente amargo."
+    },
+    {
+        "id": 9,
+        "nombre": "Guinness",
+        "origen": "Irlanda",
+        "tipo": "Stout",
+        "alcohol": 4.2,
+        "descripcion": "Cerveza negra icónica con notas de café y chocolate."
+    },
+    {
+        "id": 10,
+        "nombre": "Paulaner",
+        "origen": "Alemania",
+        "tipo": "Weissbier",
+        "alcohol": 5.5,
+        "descripcion": "Cerveza de trigo alemana con un sabor frutal y toques de clavo y plátano."
+    }
+]
